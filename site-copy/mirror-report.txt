@@ -1,0 +1,5 @@
+Source: https://silagranita69.ru/
+Downloaded unique resources: 106
+Failed resources: 1
+
+https://fonts.gstatic.com/ :: Exception calling "EnsureSuccessStatusCode" with "0" argument(s): "Response status code does not indicate success: 404 (Not Found)."
