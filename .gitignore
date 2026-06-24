@@ -9,6 +9,7 @@ edge-check-profile*/
 .codex/
 
 # Local build/mirror helpers and backups
+site-copy/
 design-system/
 kitchen-mirror/
 site-copy-backup-before-uipro/
