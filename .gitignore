@@ -3,6 +3,10 @@ chrome-check-profile*/
 edge-check-profile*/
 *.log
 *.tmp
+*.zip
+bot/.env
+bot/.venv/
+bot/__pycache__/
 
 # Local agent/config folders
 .agents/
